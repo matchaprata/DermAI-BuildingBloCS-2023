@@ -1,5 +1,4 @@
 # DermAI-BuildingBloCS-2023
-DermAI: an AI model that is trained to identify benign and malignant skin pigments
 
 
 Inspiration:
